@@ -1,0 +1,1 @@
+Farmi Scan es una herramienta diseñada para facilitar la identificación de medicamentos a través de tecnologías de inteligencia artificial. Con solo tomar una foto o ingresar información básica, la aplicación analiza y reconoce el medicamento, ofreciendo datos relevantes como nombre, presentación y posibles usos.
